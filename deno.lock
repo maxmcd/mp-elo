@@ -1,0 +1,20 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:@types/node": "npm:@types/node@18.16.19",
+      "npm:glicko2": "npm:glicko2@1.2.1"
+    },
+    "npm": {
+      "@types/node@18.16.19": {
+        "integrity": "sha512-IXl7o+R9iti9eBW4Wg2hx1xQDig183jj7YLn8F7udNceyfkbn1ZxmzZXuak20gR40D7pIkIY1kYGx5VIGbaHKA==",
+        "dependencies": {}
+      },
+      "glicko2@1.2.1": {
+        "integrity": "sha512-llKC0G0hRybX9fmDnx2u2tA9TZSg0OWM2q+AKApN4ofO8QTxFVESxvkLVulpo29fBd7yOBekgey2zkFOMMo6ng==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {}
+}
